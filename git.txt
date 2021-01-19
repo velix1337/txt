@@ -1,0 +1,12 @@
+## Task
+
+Built small projects, which can be easily integrated into future Frontend-projects.
+
+The projects should contain functionalities and designs, which can be found on a wide range of websites.
+
+## Fuctionality
+
+## Run Locally
+
+## Tech Stack
+

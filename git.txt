@@ -10,3 +10,6 @@ The projects should contain functionalities and designs, which can be found on a
 
 ## Tech Stack
 
+ - txt files
+ 
+
